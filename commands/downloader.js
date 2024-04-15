@@ -176,7 +176,7 @@ await sleep(2000);
                           jpegThumbnail: log0,
                           mimetype: 'video/mp4',  
                           fileName: `${titleYt}.mp4`, 
-                          caption: `*📥 𝙐𝙋𝙇𝙊𝘼𝘿𝙀𝘿 𝘽𝙔 𝙑𝘼𝙅𝙄𝙍𝘼 📥*`, 
+                          caption: `*📥 UPLOADED BY MASTER 📥*`, 
                       }  
                    Void.sendMessage(citel.chat, buttonMessage, { quoted: citel }); 
   
@@ -299,9 +299,9 @@ cmd({
 *අළුත් heroku account එකක් හදලා ගන්න*
 
 
-FIRST NAME : VAJIRA
+FIRST NAME : MASTER
 
-SECOND NAME : RATHNAYAKA
+SECOND NAME : MIND
 
 COUNTRY : US
 
@@ -413,7 +413,7 @@ if (text.startsWith("https://youtube.com/shorts/")) {
                },
                 caption: `
  ───────➢───────
- 🎧𝕂𝕀ℕ𝔾 𝕍𝔸𝕁𝕀ℝ𝔸🎧
+ 🎧MASTER MIND🎧
 ┋👩‍🎨 ${tlang().title} 
 ┋🚨 *Youtube Player* ✨
   ╼━━━━━➢━━━━━━╾
@@ -583,7 +583,7 @@ cmd({
                 caption: `
  ${anu.title}
 ╭───────────────◆
-│⿻ *DARK SHAN MD AUDIO INFO* 🌟
+│⿻ *MASTER MD AUDIO INFO* 🌟
 │⿻ *Youtube Player* ✨
 │⿻ *Duration:* ${anu.timestamp}
 │⿻ *Viewers:* ${anu.views}
@@ -1003,7 +1003,7 @@ cmd(
                     mimetype: "video/mp4",
                     caption: `┏━━━━━━━━━━━━━┓
 
-𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙽 𝙼𝙳 𝚃𝙸𝙺𝚃𝙾𝙺 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁
+MASTER 𝙼𝙳 𝚃𝙸𝙺𝚃𝙾𝙺 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁
 
 🖋️ *description*: ${data.respon.description}
 
@@ -1109,9 +1109,9 @@ cmd({
                 },
 
                 caption: `
-*─👑𝙑𝘼𝙅𝙄𝙍𝘼-𝙈𝘿-𝗪𝗔𝗠𝗢𝗗𝗦👑─*
+*─👑MASTER MD WAMOD DOWNLOADER👑─*
 
-💓𝗵𝗲𝗹𝗹𝗼𝘄 ${citel.pushName}💓
+💓HELLOW ${citel.pushName}💓
 
 ◉───────────────────                    
 *ඔබට අවශ්‍ය අංකය පහතින් තෝරන්න.*
@@ -1124,8 +1124,8 @@ cmd({
 *${prefix}4.3┃ YOWhatsapp*
 
 
-*ᴋɪɴɢ ᴠᴀᴊɪʀᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
-*▶ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴡᴍʀ ᴠᴀᴊɪʀᴀ ◀*
+*MASTER MIND WHATSAPP USER BOT*
+*▶ CREATED BY MASTER ◀*
 `,
 
                 footer: tlang().footer,
@@ -1156,7 +1156,7 @@ cmd(
                     document: { url: wamod.result.com_whatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_whatsapp.name,
-                    caption: '👑 KING-VAJITA-MD 👑\n©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠᴀᴊɪʀᴀ 👨‍💻'
+                    caption: '👑 MASTER-MD 👑\n©CREATED BY SAHAN 👨‍💻'
                 },
                 { quoted: citel }
             );
@@ -1187,7 +1187,7 @@ cmd(
                     document: { url: wamod.result.com_fmwhatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_fmwhatsapp.name,
-                    caption: '👑 KING-VAJIRA-MD 👑\n©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠᴀᴊɪʀᴀ 👨‍💻'
+                    caption: '👑 MASTER-MD 👑\n©CREATED BY SAHAN 👨‍💻'
                 },
                 { quoted: citel }
             );
@@ -1218,7 +1218,7 @@ cmd(
                     document: { url: wamod.result.com_gbwhatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_gbwhatsapp.name,
-                    caption: '👑 KING-VAJIRA-MD 👑\n©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠᴀᴊɪʀᴀ 👨‍💻'
+                    caption: '👑 MASTER-MD 👑\n©CREATED BY SAHAN 👨‍💻'
                 },
                 { quoted: citel }
             );
@@ -1249,7 +1249,7 @@ cmd(
                     document: { url: wamod.result.com_yowhatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_yowhatsapp.name,
-                    caption: '👑 KING-VAJIRA-MD 👑\n©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴠᴀᴊɪʀᴀ 👨‍💻'
+                    caption: '👑 MASTER-MD 👑\n©CREATED BY SAHAN 👨‍💻'
                 },
                 { quoted: citel }
             );
